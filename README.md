@@ -1,7 +1,5 @@
 # SMACC frontend
 
-http://51.15.199.13/
-
 My experience with Vue.js: 0.
 
 At vuejs.org there is "[...] start building things in no time!". That's how I created this repository.
